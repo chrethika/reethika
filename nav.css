@@ -1,0 +1,8 @@
+#menu ul
+{
+	list-style:none;
+}
+#menu ul li
+{
+	background-color:red;
+}
